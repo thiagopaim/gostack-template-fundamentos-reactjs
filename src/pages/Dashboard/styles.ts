@@ -54,6 +54,14 @@ export const TableContainer = styled.section`
     width: 100%;
     border-spacing: 0 8px;
 
+    // tr {
+    //   &.outcome {
+    //     td {
+    //       background-color: #ffe2e7;
+    //     }
+    //   }
+    // }
+
     th {
       color: #969cb3;
       font-weight: normal;
